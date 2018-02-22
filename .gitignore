@@ -1,0 +1,17 @@
+
+###> IDE (PHPStorm, SublimeText, Eclipse, Zend Studio, Netbeans, TextMate2) ###
+/.idea/
+/.buildpath/
+/nbproject/
+/.project/
+/.settings/
+/.sublime-project/
+/.tm_properties/
+/TextMate2/
+/.nano_history/
+###< IDE ###
+
+###> composer vendor ###
+/vendor/
+/bin/
+###< composer vendor ###

@@ -1,0 +1,33 @@
+{
+    "name": "ginsen/orthohedrons",
+    "description": "Orthohedrons volume test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "J. Ginés",
+            "email": "jgines@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ginsen\\Orthohedrons\\": "src/Orthohedrons"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "beberlei/assert": "^2.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "config": {
+        "bin-dir": "bin",
+        "sort-packages": true
+    }
+}
