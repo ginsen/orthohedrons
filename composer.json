@@ -1,6 +1,6 @@
 {
     "name": "ginsen/orthohedrons",
-    "description": "Orthohedrons volume test",
+    "description": "PHP demo to calc Volume of two cuboids intersection",
     "type": "project",
     "license": "MIT",
     "authors": [
